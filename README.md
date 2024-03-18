@@ -21,5 +21,5 @@ This is a simple program for reading exercises from a file, allowing the user to
  - `main()`: Orchestrates the execution of functions and controls the program flow.    
 
 ## Contributors
- - giu-lio
+ - [giu-lio](https://github.com/giu-lio)
  - gelato0o
